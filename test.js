@@ -1,0 +1,1 @@
+console.log("OpenAI API Key:", process.env.OPENAI_QUIZ_API_KEY);
