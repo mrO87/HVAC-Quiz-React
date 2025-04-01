@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Een app ter voorbereiding van het examen koeltechnieker
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
